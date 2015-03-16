@@ -1,0 +1,1 @@
+A C++ based framework for easy layer creation, mouse and keyboard interaction, and animation.
